@@ -6,9 +6,9 @@
 * 设置了**周六日(UTC时间)不启动**自动调用，周1-5每6小时自动启动一次 （修改看教程）
 
 ### 相关 ###
-* AutoApiP：https://github.com/wangziyingwen/AutoApiP
-* AutoApiSecret：https://github.com/wangziyingwen/AutoApiSecret
-* **错误及解决办法/续期相关知识/更新日志**：https://github.com/wangziyingwen/Autoapi-test
+* AutoApiP：https://github.com/wangziyingwen/AutoApiP   已失效 
+* AutoApiSecret：https://github.com/jing5460/AutoApiSecret  详细教程
+* **错误及解决办法/续期相关知识/更新日志**：
    * P版错误说明已更新进程序，详细请运行后看action日志报告
 * 视频教程：
    * B站：https://www.bilibili.com/video/BV185411n7Mq/
@@ -202,14 +202,35 @@ __________________________________________________________________________
             这个是每个账号/应用之间要不要开启延时。后面两参数参考“随机时间”
     
    （延时的设置是会延长运行时间的，全关闭大概每次运行1min，开启就会适当延长）
-   
+   ![image](https://user-images.githubusercontent.com/38358681/133702634-de33fef2-8324-418e-a939-eb3e9b6d6adf.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133702570-3162f730-6461-4571-8a3a-1d6557a9d49d.png))
+   ![image](https://user-images.githubusercontent.com/38358681/133703066-fe22bf8a-0c13-4af2-a0e8-3f92080a3eee.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133703073-139b2f69-1a15-4d10-9352-8cc64469bced.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133703085-d8fdfd44-9fb5-4639-a090-ec413fd16177.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133703188-992b5c21-66bf-4373-adfb-8acdcf5faa8f.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133703133-99d84f26-a292-4c82-ac41-3f48375dad03.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133706592-0d9ee9aa-0ce2-404b-b678-f289ac362cbb.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133706615-b1008dde-698e-4646-b896-5f0bbfed0871.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133706713-44a93b36-8322-46d3-aa16-1518cff4dbd9.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133706781-dd99ed88-9c32-47fa-913c-1028a77c6623.png)
+   ![image](https://user-images.githubusercontent.com/38358681/133706863-b8af17d2-cb9e-4d06-9ea3-d7c818162cf6.png)
+  ![image](https://user-images.githubusercontent.com/38358681/133706893-3e783cd1-44e3-4f54-a892-a921e81839d2.png)
+  ![image](https://user-images.githubusercontent.com/38358681/133708137-bf28d529-2bf3-4b01-b903-80957b57a0f5.png)
+
+![image](https://user-images.githubusercontent.com/38358681/133706934-8397a403-d2fd-4068-96ce-966421380716.png)
+![image](https://user-images.githubusercontent.com/38358681/133706983-35467abc-9f1e-4a94-81c4-707d40ed34da.png)
+![image](https://user-images.githubusercontent.com/38358681/133707061-0a3ba554-0981-4251-9be0-4d41cbb46f47.png)
+![image](https://user-images.githubusercontent.com/38358681/133708056-ad2b3063-39db-4e45-b23b-874fc913ebcd.png)
+
+![image](https://user-images.githubusercontent.com/38358681/133708189-c354e281-3e59-4ded-87c6-4646fbcb9317.png)
+
 ### 结尾 ###
 
 有事发issue
 
-Q群：[657581700](https://jq.qq.com/?_wv=1027&k=5FQJbWmV)  （项目相关讨论）
+Q群：[56865213](https://jq.qq.com/?_wv=1027&k=jiLznNS2)  （项目相关讨论）
 
-                              wangziyingwen
+                             
     
 
 
